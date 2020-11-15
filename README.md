@@ -1,6 +1,6 @@
 # MobileDevelopment
 
-## Programming assignment 2
+## Programming assignment 3
 
 ## Vadym Makarchuk Group IV-72 Gradebook - IV7216
 
